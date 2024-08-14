@@ -1,69 +1,68 @@
-# Ứng dụng bán điện thoại - laptop trực tuyến
+# Online phone - laptop sales application
 
+## Description
 
-## Mô tả 
+This is an online phone - laptop sales application.
 
-Đây là một ứng dụng bán điện thoại - laptop trực tuyến. 
+The goal of the project is to build and develop a reliable and attractive e-commerce platform on mobile applications, to meet the needs of shopping and trading phones - laptops, satisfying the following factors:
 
-Mục tiêu của đề tài là xây dựng và phát triển một sàn thương mại điện tử trên ứng dụng di động đáng tin cậy và hấp dẫn, nhằm đáp ứng nhu cầu mua sắm và giao dịch về điện thoại - laptop, thỏa mãn các yếu tố: 
-*	Xây dựng ứng dụng cung cấp một nền tảng mua sắm đa đạng, đầy đủ các chức năng thỏa mãn với các yêu cầu khách hàng đưa ra.
-*	Giao diện thân thiện, trực quan, dễ sử dụng tối ưu trải nghiệm người dùng.
-*	Độ tin cậy, bảo mật cao.
-*	Đưa ra báo cáo, thống kê, cập nhật dữ liệu nhanh chóng, chính xác.
+* Building an application that provides a diverse shopping platform, full of functions to satisfy customer requirements.
 
-## Người dùng 
+* Friendly, intuitive interface, easy to use, optimizing user experience.
+
+* High reliability and security.
+
+Provide reports, statistics, and update data quickly and accurately.
+
+## User
 
 * ADMIN
-* NGƯỜI BÁN
-* NGƯỜI MUA
-  
-## Chức năng
+* SELLER
+* BUYER
 
-#### ADMIN: 
-* Kiểm duyệt thông tin của người đăng ký bán hàng
-* Quản lý danh sách người bán
-#### NGƯỜI BÁN:
-* Quản lý sản phẩm đăng bán
-* Quản lý đơn đặt hàng
-* Quản lý vouchers
-* Quản lý thông tin xuất hiện trên trang thông tin Shop
-* Thống kê doanh thu ( biểu đồ, doanh thu, ...)
-* Thêm sản phẩm mới
-* Quản lý đánh giá của người mua
-#### NGƯỜI MUA
-* Mua hàng
-* Quản lý đơn hàng
-* Quản lý sản phẩm/ shop yêu thích
-* Quản lý thông tin/ địa chỉ giao hàng
-* Quản lý thông tin cá nhân
-* Đánh giá sản phẩm
+## Functions
 
-## Công nghệ 
+#### ADMIN:
+* Verify information of registered sellers
+* Manage seller list
+#### SELLER:
+* Manage products for sale
+* Manage orders
+* Manage vouchers
+* Manage information appearing on the Shop information page
+* Revenue statistics (charts, revenue, ...)
+* Add new products
+* Manage buyer reviews
+#### BUYER
+* Purchase
+* Manage orders
+* Manage favorite products/shops
+* Manage information/delivery address
+* Manage personal information
+* Product reviews
 
-*	Công cụ thiết kế UI: Figma
-*	Công cụ vẽ sơ đồ: draw.io
-*	Ngôn ngữ lập trình: Java
-*	IDE: Android Studio
-*	Cơ sở dữ liệu: Firebase realtime database, Firebase Firestore
-*	Công cụ quản lý source code: Git, Github
-*	Hệ thống API: xml
+## Technology
 
+* UI design tool: Figma
+* Diagram drawing tool: draw.io
+* Programming language: Java
+* IDE: Android Studio
+* Base data: Firebase realtime database, Firebase Firestore
+* Source code management tool: Git, Github
+* API system: xml
 
+## Author
 
-## Tác giả 
+* [Le Quang Nhan](https://www.facebook.com/profile.php?id=100040989546712) - 21522402
 
-* [Lê Quang Nhân](https://www.facebook.com/profile.php?id=100040989546712) - 21522402
+* [Nguyen Van Phat](https://www.facebook.com/profile.php?id=100009796787588) - 21522448
 
-* [Nguyễn Văn Phát](https://www.facebook.com/profile.php?id=100009796787588) - 21522448
+* [Huynh Ngoc Qui](https://www.facebook.com/quichua333) - 21520417
 
-* [Huỳnh Ngọc Quí](https://www.facebook.com/quichua333) - 21520417
+* [Phan Trong Tinh](https://www.facebook.com/profile.php?id=100073316952962) - 21522683
 
-* [Phan Trọng Tính](https://www.facebook.com/profile.php?id=100073316952962) - 21522683
+* Student of Software Engineering, University of Information Technology Information Technology, Ho Chi Minh City National University
 
- * Sinh viên khoa Công nghệ Phần mềm, trường Đại học Công nghệ Thông tin, Đại học Quốc gia thành phố Hồ Chí Minh 
+## Instructor
 
-## Giảng viên hướng dẫn 
-
-* Thầy Nguyễn Tấn Toàn, giảng viên Khoa Công Nghệ Phần Mềm, trường Đại học Công nghệ Thông tin, Đại học Quốc gia Thành phố Hồ Chí Minh 
-
-
+* Mr. Nguyen Tan Toan, lecturer of Software Technology Faculty, University of Information Technology, Ho Chi Minh City National University
